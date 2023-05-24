@@ -3,16 +3,16 @@ Aeroflot,Россия,AFL,2,1,3,9.5,5000
 Lufthansa,Германия,DLH,1,0,0,9.8,7000
 Emirates,ОАЭ,UAE,1,0,0,9.7,9000
 British Airways,Великобритания,BAW,2,2,10,9.2,4000
-Qatar Airways,Катар,QTR,0,0,0,9.9,6000
+Qatar Airways,Катар,QTR,1,0,0,9.9,6000
 Air France,Франция,AFR,1,0,0,9.8,5500
-Singapore Airlines,Сингапур,SIA,0,0,0,9.9,8000
-Etihad Airways,ОАЭ,ETD,0,0,0,9.9,3500
+Singapore Airlines,Сингапур,SIA,2,0,0,9.9,8000
+Etihad Airways,ОАЭ,ETD,2,0,0,9.9,3500
 Turkish Airlines,Турция,THY,1,2,8,9.4,4500
-ANA,Япония,ANA,0,0,0,9.9,3000
+ANA,Япония,ANA,1,1,0,9.9,3000
 Qantas,Австралия,QFA,1,0,0,9.6,5500
 KLM,Нидерланды,KLM,2,3,12,9.3,4000
 American Airlines,США,AAL,3,7,28,8.9,7000
-Southwest Airlines,США,SWA,0,0,0,9.9,6500
+Southwest Airlines,США,SWA,1,0,0,9.9,6500
 Air Canada,Канада,ACA,1,1,5,9.5,3500
 Lion Air,Индонезия,LNI,5,189,203,7.8,2500
 CompaniaNikitiTrineva,Россия,CNT,0,0,0,10,0
