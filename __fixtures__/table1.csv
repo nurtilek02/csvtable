@@ -1,16 +1,16 @@
-Авиакомпания,Страна,Код ИКАО,Количество аварий,Количество погибших,Количество раненых,Рейтинг безопасности
-Aeroflot,Россия,AFL,2,1,3,9.5
-Lufthansa,Германия,DLH,0,0,0,9.9
-Emirates,ОАЭ,UAE,1,0,0,9.7
-British Airways,Великобритания,BAW,2,2,10,9.2
-Qatar Airways,Катар,QTR,0,0,0,9.9
-Air France,Франция,AFR,1,0,0,9.8
-Singapore Airlines,Сингапур,SIA,0,0,0,9.9
-Etihad Airways,ОАЭ,ETD,0,0,0,9.9
-Turkish Airlines,Турция,THY,1,2,8,9.4
-ANA,Япония,ANA,0,0,0,9.9
-Qantas,Австралия,QFA,1,0,0,9.6
-KLM,Нидерланды,KLM,2,3,12,9.3
-American Airlines,США,AAL,3,7,28,8.9
-Southwest Airlines,США,SWA,0,0,0,9.9
-Air Canada,Канада,ACA,1,1,5,9.5
+Авиакомпания,Страна,Код ИКАО,Количество аварий,Количество погибших,Количество раненых,Рейтинг безопасности,Количество вылетов
+Air India,Индия,AIC,2,5,17,8.9,4000
+LATAM Airlines,Чили,LAN,1,2,9,8.6,3500
+Copa Airlines,Панама,CMP,0,0,0,9.8,6000
+AirAsia,Малайзия,AXM,3,120,56,7.5,5500
+Avianca,Колумбия,AVA,1,3,8,8.7,3000
+EgyptAir,Египет,MSR,2,19,56,8.3,2500
+Japan Airlines,Япония,JAL,0,0,0,9.9,7000
+Ryanair,Ирландия,RYR,4,12,34,8.1,9000
+SAS Scandinavian Airlines,Швеция,SAS,1,1,7,9.5,4500
+Air Arabia,ОАЭ,ABY,0,0,0,9.9,5500
+Alitalia,Италия,AZA,2,5,23,8.4,4000
+IndiGo,Индия,IGO,0,0,0,9.9,8000
+Vietnam Airlines,Вьетнам,HVN,1,0,0,9.7,3500
+Alaska Airlines,США,ASA,0,0,0,9.9,5000
+TAP Air Portugal,Португалия,TAP,1,1,6,9.4,3000
