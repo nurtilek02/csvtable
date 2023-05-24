@@ -1,0 +1,16 @@
+Авиакомпания,Страна,Код ИКАО,Количество аварий,Количество погибших,Количество раненых,Рейтинг безопасности
+Aeroflot,Россия,AFL,2,1,3,9.5
+Lufthansa,Германия,DLH,0,0,0,9.9
+Emirates,ОАЭ,UAE,1,0,0,9.7
+British Airways,Великобритания,BAW,2,2,10,9.2
+Qatar Airways,Катар,QTR,0,0,0,9.9
+Air France,Франция,AFR,1,0,0,9.8
+Singapore Airlines,Сингапур,SIA,0,0,0,9.9
+Etihad Airways,ОАЭ,ETD,0,0,0,9.9
+Turkish Airlines,Турция,THY,1,2,8,9.4
+ANA,Япония,ANA,0,0,0,9.9
+Qantas,Австралия,QFA,1,0,0,9.6
+KLM,Нидерланды,KLM,2,3,12,9.3
+American Airlines,США,AAL,3,7,28,8.9
+Southwest Airlines,США,SWA,0,0,0,9.9
+Air Canada,Канада,ACA,1,1,5,9.5
