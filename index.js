@@ -29,7 +29,7 @@ export default function solution(content) {
     const sootnochenie = sum/postradavshie * 100
     const sootnochenie2 = sum1/postradavshie * 100
     console.log(`раненых к погибшим ${Math.round(sootnochenie2)}%`);
-    console.log(`погибших к раненым ${Math.round(sootnochenie)}%`);
+    console.log(`погибших к раненым ${Math.round(sootnochenie)}%`)
     
     //END
 }
